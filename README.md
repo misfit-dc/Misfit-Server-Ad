@@ -22,7 +22,7 @@ and learn from each other. But it's not just about the topics- we are all
 about building a supportive community too. We encourage our
 members to get to know each other, share their hobbies and passions.
 So come join us and become a part of our friendly community on Discord!
-||Copyright (c) 2023, Mannu Vilasara||
+||Copyright (c) 2023, Misfit||
 
 └-------☾︎✵☽︎-------┘
 
