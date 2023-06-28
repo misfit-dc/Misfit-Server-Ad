@@ -29,4 +29,4 @@ So come join us and become a part of our friendly community on Discord!
 __Server__: https://discord.gg/MePzYebQZS
 __Banner__: https://imgur.com/oOvbkTg
 ```
-[License](https://github.com/MannuVilasara/Misfit-Ad/blob/main/LICENSE)
+[License](https://github.com/misfit-unusual/Misfit-Server-Ad/blob/main/LICENSE)
